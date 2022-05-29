@@ -3,8 +3,9 @@ This is an application which uses Python Flask framework to give content based r
 ## Working of the application
 ![working](https://user-images.githubusercontent.com/77972615/170870827-a31a9d21-b51e-4790-913a-f16ac75b76cc.png)
 ## Snipets of the result of searched movie and the recommended movies
-![Uploading Screenshot (125).png…]()
-![Uploading Screenshot (126).png…]()
+![Screenshot (125)](https://user-images.githubusercontent.com/77972615/170874253-7e69aee7-8074-4574-9be8-142fb6dc7aa1.png)
+![Screenshot (126)](https://user-images.githubusercontent.com/77972615/170874348-93160278-2fd8-421a-b7d3-0fbcc78ab965.png)
+
 
 ## Data Collection
 The links to the datasets used are-

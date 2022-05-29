@@ -4,6 +4,7 @@ This is an application which uses Python Flask framework to give content based r
 ![working](https://user-images.githubusercontent.com/77972615/170870827-a31a9d21-b51e-4790-913a-f16ac75b76cc.png)
 
 ## Data Collection
+The links to the datasets used are-
 1. https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset
 2. https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 3. https://en.wikipedia.org/wiki/List_of_American_films_of_2018

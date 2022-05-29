@@ -2,6 +2,9 @@
 This is an application which uses Python Flask framework to give content based recommendations by accepting the name of the movie entered by the user.
 ## Working of the application
 ![working](https://user-images.githubusercontent.com/77972615/170870827-a31a9d21-b51e-4790-913a-f16ac75b76cc.png)
+## Snipets of the result of searched movie and the recommended movies
+![Uploading Screenshot (125).png…]()
+![Uploading Screenshot (126).png…]()
 
 ## Data Collection
 The links to the datasets used are-
